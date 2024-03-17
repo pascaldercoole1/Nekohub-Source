@@ -1,2 +1,2 @@
 # Nekohub-Source
-# Nekohub is discontinued now!
+# -> Nekohub is discontinued now!
